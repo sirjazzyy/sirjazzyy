@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Jazzy 👋
+
+- 🌱 First open-source contribution merged in [first-contributions](https://github.com/firstcontributions/first-contributions)
+- 💻 Learning: Git, GitHub & Data Engineering
+- 🚀 My first contribution: Hi, this is jazzy. my first contribution btw
+
+### Connect with me
+- GitHub: [@sirjazzyy](https://github.com/sirjazzyy)
 
 <!--
 **sirjazzyy/sirjazzyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
