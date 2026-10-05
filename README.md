@@ -20,4 +20,4 @@ Hi, I'm Jazzy 👋
 - GitHub: [@sirjazzyy](https://github.com/sirjazzyy)
 
 > "Hi, this is jazzy. my first contribution btw" — my first commit message 🚀
-Learning in progress ...
+Learning in progress ...SSH clone works - Mon Oct  5 09:10:36 WAT 2026
