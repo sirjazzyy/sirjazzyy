@@ -20,3 +20,4 @@ Hi, I'm Jazzy 👋
 - GitHub: [@sirjazzyy](https://github.com/sirjazzyy)
 
 > "Hi, this is jazzy. my first contribution btw" — my first commit message 🚀
+Learning in progress ...
